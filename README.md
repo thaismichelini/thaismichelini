@@ -6,7 +6,6 @@
 
 - 🔭 Trabalho como Estagiária de Desenvolvimento de Sistemas na Creditas
 - 🌱 No momento estou estudando JavaStript
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/thaismichelini">
