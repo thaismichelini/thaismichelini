@@ -4,7 +4,7 @@
 
 **Sobre mim**
 
-- 🔭 Trabalho como Estagiária de Desenvolvimento de Sistemas na Creditas
+- 🔭 Trabalho como Desenvoldera Front-end na Creditas
 - 🌱 No momento estou estudando React e TypeScript
 
 <div align="center">
