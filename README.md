@@ -4,7 +4,7 @@
 
 **Sobre mim**
 
-- 🔭 Trabalho como Desenvoldera Front-end na Creditas
+- 🔭 Trabalho como Desenvolvedora Front-end na Creditas
 - 🌱 No momento estou estudando React e TypeScript
 
 <div align="center">
