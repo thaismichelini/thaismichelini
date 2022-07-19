@@ -1,4 +1,4 @@
-### Olá! Sou Thais Michelini
+### Olá! 
 
 ##
 
