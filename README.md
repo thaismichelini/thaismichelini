@@ -5,7 +5,7 @@
 **Sobre mim**
 
 - 🔭 Trabalho como Desenvolvedora Front-end na Creditas
-- 🌱 No momento estou estudando React e TypeScript
+- 🌱 No momento estou estudando React, TypeScript, Testes com Jest e POO.
 
 <div align="center">
   <a href="https://github.com/thaismichelini">
